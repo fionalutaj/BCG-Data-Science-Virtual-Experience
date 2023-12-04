@@ -1,4 +1,4 @@
-# BCG-Data-Science-Analytics-Virtual-Experience-Program
+# BCG Data-Science Analytics Virtual Experience Program on Forage
 
 ## Background
 Your client is PowerCo, a major gas and electricity utility company that supplies to corporate, SME (small and medium enterprise) and residential customers. The power liberalization of the energy market in Europe has led to significant customer churn, especially in the SME segment. They have partnered with BCG to help diagnose and drive the source of churning SME customers.
